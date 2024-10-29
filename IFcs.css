@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+body {height: 4000px;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(110, 117, 120), rgb(244, 244, 244));
+}
+button {
+    background-color: rgb(203, 5, 5);
+    color: rgb(0, 0, 0);
+    
+}
+button:hover{
+    background-color: rgb(233, 233, 233);
+    color: rgb(0, 0, 0);
+    
+
+}
+img {
+    width: 100px;
+    height: 100px;
+    
+}
+.if {
+    padding-left:24px ;
+}
+.get {
+    padding-left: 400px;
+}
+p {
+    font-size: small;
+    font-family: sans-serif;
+}
+.lights {
+    padding-bottom: 80px;
+}
